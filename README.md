@@ -1,3 +1,3 @@
 # Email Extractor
  
- This is a mini-program to extract "e-mails" from an old csv file into a new one.
+ This is a mini-program that extracts "e-mails" from a csv file, and copies them into a new one.
